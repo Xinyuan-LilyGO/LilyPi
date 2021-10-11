@@ -21,5 +21,6 @@
 
 ## Pinout
 
-![](images/Lilypi_ST7796S_1.jpg)
-![](images/Lilypi_ST7796S_2.jpg)
+![](images/Lilypi_ST7796S.jpg)
+![](images/Lilypi_ILI9841.jpg)
+![](images/Lilypi_.jpg)
