@@ -20,9 +20,12 @@
 
 ## Pinout
 
-![](images/Lilypi_ST7796S.jpg)
-![](images/Lilypi_ILI9841.jpg)
-![](images/c.jpg)
+![image1](https://github.com/Xinyuan-LilyGO/LilyPi/blob/main/images/Lilypi_ST7796S.jpg)
+
+![image2](https://github.com/Xinyuan-LilyGO/LilyPi/blob/main/images/Lilypi_ILI9841.jpg)
+
+![image3](https://github.com/Xinyuan-LilyGO/LilyPi/blob/main/images/cc.jpg)
+
 
 
 
