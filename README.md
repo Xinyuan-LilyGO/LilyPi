@@ -22,7 +22,7 @@
 
 ![](images/Lilypi_ST7796S.jpg)
 ![](images/Lilypi_ILI9841.jpg)
-![](images/Lilypi_.jpg)
+![](images/c.jpg)
 
 
 
